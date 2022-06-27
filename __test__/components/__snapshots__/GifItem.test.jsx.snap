@@ -3,15 +3,74 @@
 exports[`Test in <GifItem/> - Debe de hacer match con el snapshot 1`] = `
 <div>
   <div
-    class="card"
+    class="nextui-c-kRHeuF nextui-c-kRHeuF-icdMRcE-css nextui-grid-item xs sm md"
   >
-    <img
-      alt="Test title"
-      src="https://via.placeholder.com/150"
-    />
-    <p>
-      Test title
-    </p>
+    <div
+      class="nextui-c-BDLTQ nextui-c-jMTBsW nextui-c-PJLV nextui-c-BDLTQ-jyIjWj-variant-shadow nextui-c-BDLTQ-fmlsco-borderWeight-light nextui-c-BDLTQ-cuwTXc-disableAnimation-false nextui-c-BDLTQ-iZxJaC-isPressable-true nextui-c-PJLV-gulvcB-isFocusVisible-false nextui-c-BDLTQ-igmQosi-css"
+      role="button"
+      tabindex="0"
+    >
+      <div
+        class="nextui-c-eFfoBo nextui-c-eFfoBo-ifBQDyP-css"
+      >
+        <div
+          class="nextui-c-iVzbCs nextui-c-iVzbCs-bDGmTT-ready-true nextui-c-iVzbCs-ihinyfY-css nextui-image-container nextui-image--loading"
+          data-state="loading"
+        >
+          <div
+            class="nextui-c-FIiRH nextui-c-FIiRH-ibDGmTT-css nextui-image-skeleton"
+          />
+          <img
+            alt="Test title"
+            class="nextui-c-kbhVdb nextui-c-kbhVdb-ieCSSFU-css nextui-image"
+            data-state="loading"
+            height="100%"
+            src="https://via.placeholder.com/150"
+            width="100%"
+          />
+        </div>
+      </div>
+      <div
+        class="nextui-c-cakKrd nextui-c-cakKrd-gjCMAI-isBlurred-true nextui-c-cakKrd-ienEzvy-css"
+      >
+        <div
+          class="nextui-c-dfbgCO nextui-c-dfbgCO-fGHEql-fluid-true nextui-c-dfbgCO-ilailYI-css"
+        >
+          <div
+            class="nextui-c-cMTZRp nextui-c-cMTZRp-ijmTDtb-css"
+          >
+            <p
+              class="nextui-c-PJLV nextui-c-PJLV-igYRsiq-css"
+            >
+              Test title
+            </p>
+          </div>
+          <div
+            class="nextui-c-cMTZRp nextui-c-cMTZRp-ijmTDtb-css"
+          >
+            <div
+              class="nextui-c-dfbgCO nextui-c-dfbgCO-fGHEql-fluid-true nextui-c-dfbgCO-iipPaye-css"
+            >
+              <button
+                class="nextui-c-iWjDFM nextui-c-PJLV nextui-c-ldmKBv nextui-c-iWjDFM-hfnhFm-color-success nextui-c-iWjDFM-gkIlwi-size-md nextui-c-iWjDFM-cwXrJp-borderWeight-normal nextui-c-iWjDFM-cyFBRX-flat-true nextui-c-iWjDFM-exaRme-auto-true nextui-c-iWjDFM-hzYxzX-rounded-true nextui-c-iWjDFM-gglxka-cv nextui-c-iWjDFM-gmvfdi-cv nextui-c-iWjDFM-euJLgm-cv nextui-c-PJLV-gulvcB-isFocusVisible-false nextui-c-iWjDFM-iPJLV-css nextui-button nextui-button--ready"
+                data-state="ready"
+                type="button"
+              >
+                <span
+                  class="nextui-button-text"
+                >
+                  <p
+                    class="nextui-c-PJLV nextui-c-PJLV-hyvuql-weight-bold nextui-c-PJLV-ikBSpPJ-css"
+                  >
+                    Download
+                  </p>
+                </span>
+              </button>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
   </div>
 </div>
 `;
