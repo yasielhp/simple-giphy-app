@@ -7,7 +7,7 @@
     "build": "vite build",
     "preview": "vite preview",
     "test": "jest --watchAll",
-    "deploy": "gh-pages -d build"
+    "deploy": "gh-pages -d dist"
   },
   "dependencies": {
     "@nextui-org/react": "^1.0.0-beta.9",
