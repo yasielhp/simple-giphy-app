@@ -6,11 +6,13 @@
     "dev": "vite",
     "build": "vite build",
     "preview": "vite preview",
-    "test": "jest --watchAll"
+    "test": "jest --watchAll",
+    "deploy": "gh-pages -d build"
   },
   "dependencies": {
     "@nextui-org/react": "^1.0.0-beta.9",
     "file-saver": "^2.0.5",
+    "gh-pages": "^4.0.0",
     "next-themes": "^0.2.0",
     "prop-types": "^15.8.1",
     "react": "^18.0.0",
